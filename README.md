@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Md Nurullah
 #### I am MERN stack developer
-![I am MERN stack developer](https://ibb.co/vkZ6fQF)
+![I am MERN stack developer](https://github.com/nurullah7733/nurullah7733/blob/main/banner.jpg?raw=true)
 
 🚀 As a passionate Full Stack Developer, I bring a comprehensive skill set to the table, encompassing JavaScript, Node.js, Express.js, React.js, Next.js, Prisma ORM, MongoDB, SQL, and adept VPS server management. 🌐
 
