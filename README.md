@@ -14,6 +14,23 @@ Skills: REACT JS / NEXT JS / PRISMA ORM / NODE JS / EXRESS JS / MONGODB / MYSQL 
 
 ###
 
+
+
+<h2 align="left">Connect with me</h2>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nurullah7733/" target="_blank"> <img align="center" src="https://github.com/nurullah7733/nurullah7733/blob/main/linkedin.png?raw=true" alt="linkedin" height="40" width="40" />
+</a> 
+<a href="https://www.facebook.com/sinan7733" target="_blank"> <img align="center" src="https://github.com/nurullah7733/nurullah7733/blob/main/facebook.png?raw=true" alt="facebook" height="40" width="40" /> 
+</a>
+<a href="https://twitter.com/nurullah7733" target="_blank"> <img align="center" src="https://github.com/nurullah7733/nurullah7733/blob/main/twitter.png?raw=true" alt="twitter" height="40" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/13917851/md-nurullah" target="_blank"> <img align="center" src="https://github.com/nurullah7733/nurullah7733/blob/main/stack.png?raw=true" alt="twitter" height="40" width="40" />
+</a>
+<a href="https://nurdeveloper.vercel.app" target="_blank"> <img align="center" src="https://github.com/nurullah7733/nurullah7733/blob/main/website.png?raw=true" alt="twitter" height="40" width="40" />
+</a>
+</p>
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -43,21 +60,6 @@ Skills: REACT JS / NEXT JS / PRISMA ORM / NODE JS / EXRESS JS / MONGODB / MYSQL 
 </div>
 
 ###
-
-<h2 align="left">Connect with me</h2>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/nurullah7733/" target="_blank"> <img align="center" src="https://github.com/nurullah7733/nurullah7733/blob/main/linkedin.png?raw=true" alt="linkedin" height="40" width="40" />
-</a> 
-<a href="https://www.facebook.com/sinan7733" target="_blank"> <img align="center" src="https://github.com/nurullah7733/nurullah7733/blob/main/facebook.png?raw=true" alt="facebook" height="40" width="40" /> 
-</a>
-<a href="https://twitter.com/nurullah7733" target="_blank"> <img align="center" src="https://github.com/nurullah7733/nurullah7733/blob/main/twitter.png?raw=true" alt="twitter" height="40" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/13917851/md-nurullah" target="_blank"> <img align="center" src="https://github.com/nurullah7733/nurullah7733/blob/main/stack.png?raw=true" alt="twitter" height="40" width="40" />
-</a>
-<a href="https://nurdeveloper.vercel.app" target="_blank"> <img align="center" src="https://github.com/nurullah7733/nurullah7733/blob/main/website.png?raw=true" alt="twitter" height="40" width="40" />
-</a>
-</p>
 
  
 
