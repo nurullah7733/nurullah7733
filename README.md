@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Md Nurullah
+## Hi there 👋 my name is Md Nurullah
 #### I am MERN stack developer
 ![I am MERN stack developer](https://ibb.co/vkZ6fQF)
 
@@ -10,10 +10,43 @@ Skills: REACT JS / NEXT JS / PRISMA ORM / NODE JS / EXRESS JS / MONGODB / MYSQL 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about React js, Next js. 
-- 📫 How to reach me: nurullah7733@gmail.com 
+- 📫 How to reach me: nurullah7733@gmail.com
 
+###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurullah7733)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nurullah7733/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sinan7733)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nurullah7733)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nurdeveloper.vercel.app)  
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="left">Connect with me</h2>
+
+[<img src='https://github.com/nurullah7733/nurullah7733/blob/main/linkedin.png?raw=true' alt='twitter' height='40'>](https://www.linkedin.com/in/nurullah7733/) [<img src='https://github.com/nurullah7733/nurullah7733/blob/main/facebook.png?raw=true' alt='github' height='40'>](https://www.facebook.com/sinan7733)    [<img src='https://github.com/nurullah7733/nurullah7733/blob/main/twitter.png?raw=true' alt='twitter' height='50'>](https://twitter.com/nurullah7733)  [<img src='https://github.com/nurullah7733/nurullah7733/blob/main/stack.png?raw=true' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13917851/md-nurullah)  [<img src='https://github.com/nurullah7733/nurullah7733/blob/main/website.png?raw=true' alt='website' height='40'>](https://nurdeveloper.vercel.app)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurullah7733)](https://github.com/anuraghazra/github-readme-stats)
 
