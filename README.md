@@ -75,30 +75,7 @@ Skills: REACT JS / NEXT JS / PRISMA ORM / NODE JS / EXRESS JS / MONGODB / MYSQL 
 <p align="left">
     <a href="https://jestjs.io" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-    <a href="https://pytest.org" target="_blank"> <img
-            src="https://docs.pytest.org/en/6.2.x/_static/pytest1.png" alt="pytest" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">DevOps:</h3>
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40"/> </a>
-    <a href="https://www.nginx.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-    <a href="https://uwsgi-docs.readthedocs.io/en/latest/" target="_blank"> <img
-            src="https://seeklogo.com/images/U/uwsgi-logo-974E2EB50A-seeklogo.com.png" alt="uwsgi" width="40" height="40"/> </a>
-    <a href="https://gunicorn.org/" target="_blank"> <img
-            src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" alt="gunicorn" width="40" height="40"/> </a>
-</p>
-
-
 
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
