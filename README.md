@@ -47,17 +47,12 @@ Skills: REACT JS / NEXT JS / PRISMA ORM / NODE JS / EXRESS JS / MONGODB / MYSQL 
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
-    <a href="https://nodejs.org/en" target="_blank"> <img
-            src="https://github.com/nurullah7733/nurullah7733/blob/main/nodejs.png?raw=true" alt="django"
-            width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank"> <img
-            src="https://github.com/nurullah7733/nurullah7733/blob/main/express.png?raw=true"
-            alt="express" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img
+            src="https://github.com/nurullah7733/nurullah7733/blob/main/express.png?raw=true"
+            alt="express" width="40" height="40"/> </a>
 </p>
 
 
