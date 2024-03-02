@@ -70,6 +70,14 @@ Skills: REACT JS / NEXT JS / PRISMA ORM / NODE JS / EXRESS JS / MONGODB / MYSQL 
    
 </p>
 
+<h3 align="left">ORM:</h3>
+<p align="left">
+ <a href="https://www.prisma.io/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/nurullah7733/nurullah7733/92ae06c50ccf18950a6e2e4bc1ffd6b513f52702/prisma-2.svg"
+            alt="mongodb" width="40" height="40"/> </a>
+   
+</p>
+
 
 <h3 align="left">Testing:</h3>
 <p align="left">
