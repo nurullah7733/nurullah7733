@@ -58,19 +58,16 @@ Skills: REACT JS / NEXT JS / PRISMA ORM / NODE JS / EXRESS JS / MONGODB / MYSQL 
 
 <h3 align="left">Databases:</h3>
 <p align="left">
+ <a href="https://www.mongodb.com/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
             alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40"/> </a>
     <a href="https://redis.io" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+            src="https://github.com/nurullah7733/nurullah7733/blob/main/mysql.png?raw=true"
             alt="redis" width="40" height="40"/> </a>
-    <a href="https://www.elastic.co" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-     <a href="https://aws.amazon.com/dynamodb/" target="_blank"> <img
-            src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" alt="dynamodb" width="40" height="40"/></a>
+   
 </p>
 
 
