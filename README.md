@@ -93,9 +93,5 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 </p>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurullah7733)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurullah7733&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nurullah7733)  
+ 
 
