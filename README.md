@@ -2,9 +2,7 @@
 #### I am MERN stack developer
 ![I am MERN stack developer](https://github.com/nurullah7733/nurullah7733/blob/main/banner.jpg?raw=true)
 
-🚀 As a passionate Full Stack Developer, I bring a comprehensive skill set to the table, encompassing JavaScript, Node.js, Express.js, React.js, Next.js, Prisma ORM, MongoDB, SQL, and adept VPS server management. 🌐
-
-Skills: REACT JS / NEXT JS / PRISMA ORM / NODE JS / EXRESS JS / MONGODB / MYSQL / POSTGRESQL
+🚀 Skills: REACT JS / NEXT JS / PRISMA ORM / NODE JS / EXRESS JS / MONGODB / MYSQL / POSTGRESQL
 
 - 🔭 I’m currently working on An ecommerce app https://egolap.com 
 - 🌱 I’m currently learning Javascript 
