@@ -4,7 +4,7 @@
 
 🚀 Skills: REACT JS / NEXT JS / PRISMA ORM / NODE JS / EXRESS JS / MONGODB / MYSQL / POSTGRESQL
 
-- 🔭 I’m currently working on An ecommerce app https://egolap.com 
+- 🔭 I’m currently working on An ecommerce app https://laramintkw.com 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about React js, Next js, Node js, MongoDB. 
